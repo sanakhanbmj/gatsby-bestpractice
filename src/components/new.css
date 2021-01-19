@@ -1,0 +1,30 @@
+.sidebar-area .sidebar-cta a {
+    display: block;
+    position: relative;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+.accordion.faqs dt .sidebar-area .sidebar-cta a a, .sidebar-area .sidebar-cta a .accordion.faqs dt a, .sidebar-area .sidebar-cta a h2 {
+    text-align: center;
+    font-size: 34px;
+    font-size: 2.125rem;
+    line-height: 38px;
+    line-height: 2.375rem;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+.accordion.faqs dt .sidebar-area .sidebar-cta a a, .sidebar-area .sidebar-cta a .accordion.faqs dt a, .sidebar-area .sidebar-cta a h2, .sidebar-area .sidebar-cta a p {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
+
+.sidebar-area .sidebar-cta a p {
+    margin-top: 10px;
+}
+
+.accordion.faqs dt .sidebar-area .sidebar-cta a a, .sidebar-area .sidebar-cta a .accordion.faqs dt a, .sidebar-area .sidebar-cta a h2, .sidebar-area .sidebar-cta a p {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
